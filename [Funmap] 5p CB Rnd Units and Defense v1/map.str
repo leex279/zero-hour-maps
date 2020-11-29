@@ -1,0 +1,9 @@
+intro
+"Map made by Dirtbag. Modified by Leex."
+End
+
+CONTROLBAR:ConstructChinaTankBattleMasterDescription
+"Build a random vehicle"
+
+CONTROLBAR:RandomDefenseStructureDescription
+"Build a random defense structure"
